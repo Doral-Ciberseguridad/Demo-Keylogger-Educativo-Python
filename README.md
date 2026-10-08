@@ -33,4 +33,6 @@ python Keylogger.py
 
 <img width="843" height="68" alt="image" src="https://github.com/user-attachments/assets/0e3e6117-125f-4cd8-8d41-3066ea159a49" />
 
+Si has introducido bien los datos recibirás un correo electrónico con las teclas pulsadas por el usuario.
+
 
