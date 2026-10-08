@@ -18,7 +18,8 @@ pip install colorama keyboard
 
 3. Lanza el script de Python:
 
-```python Keylogger.py
+```
+python Keylogger.py
 ```
 
 
